@@ -1,0 +1,8 @@
+body {
+    font-family: 'Pacifico', cursive;
+}
+
+.jumbotron {
+    background-image: url("http://static.flickr.com/39/83176133_d15bfd4705_o.jpg");
+    background-repeat: no-repeat;
+}
